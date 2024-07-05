@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <math.h>
+//¬вести два целых числа a и b (a ? b) и вывести сумму квадратов всех чисел от a до b.
 int main()
 {
 	int i_treshHold,a_treshHold;

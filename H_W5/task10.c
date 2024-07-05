@@ -26,10 +26,11 @@ int main()
        num /=10;
    }
     
-           
+          //can chenge tern ?   
     if (flag == 1) printf("YES\n"); 
     if (flag == 0) printf("NO\n");                 
    
     
 	return 0;
 }
+//¬вести целое число и определить, верно ли, что все его цифры расположены в пор€дке возрастани€.

@@ -1,5 +1,8 @@
 #include <stdio.h>
 #include <math.h>
+
+//яреоемэ вхякю
+
 int main()
 {
 	int min_treshHold, max_treshHold;

@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+//¬вести целое число и определить, верно ли, что все его цифры четные.
+
 int main()
 {
 	int num;
@@ -23,14 +25,16 @@ int main()
       
    }
 
-   if (count != 0)
-        {
-                printf("NO\n"); 
-        }
-   else
-        {
-             printf("YES\n"); 
-        }
+(count != 0) ? printf("NO\n"): printf("YES\n"); 
+
+//    if (count != 0)
+//         {
+//                 printf("NO\n"); 
+//         }
+//    else
+//         {
+//              printf("YES\n"); 
+//         }
    
 
 	return 0;
