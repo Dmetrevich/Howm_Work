@@ -7,6 +7,7 @@ int main()
     printf("Let's\n");
     printf("  go\n");
     printf("     to walk");
+    printf("     to walk");
     
     return 0;
 }
